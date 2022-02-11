@@ -1,0 +1,19 @@
+{
+  "name": "octokit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Kavin Desi Valli <mail@kavin.me> (https://kavin.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "octokit": "^1.7.1"
+  }
+}
